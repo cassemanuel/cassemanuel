@@ -1,5 +1,5 @@
-### Olá! Meu nome é Cássio Emanuel 🤠
-Carioca e Vascaíno em busca do aprendizado no mundo da Ciência da Computação. Tenho essa página como repositório de longo prazo para ver minha evolução e recordar de coisas que eu possuia dificuldade e superei. /<span style="color:red;">+</span>/
+### Olá! Meu nome é Cássio 🤠
+Carioca e Vascaíno em busca do aprendizado no mundo da Ciência da Computação. Tenho essa página como repositório de longo prazo para ver minha evolução e recordar de coisas que eu possuia dificuldade e superei. /+/
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/cassemanuel/)
