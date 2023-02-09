@@ -1,10 +1,10 @@
-### Olá! Meu nome é Cássio 🤠
+# Olá! Meu nome é Cássio 🤠
 Carioca e Vascaíno em busca do aprendizado no mundo da Ciência da Computação. Tenho essa página como repositório de longo prazo para ver minha evolução e recordar de coisas que eu possuia dificuldade e superei. /+/
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/cassemanuel/)
 
-## Tecnologias que eu uso (ou já usei) no meu dia:
+### Tecnologias que eu uso (ou já usei) no meu dia:
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
