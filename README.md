@@ -18,4 +18,4 @@ Carioca e Vascaíno em busca do aprendizado no mundo da Ciência da Computação
   </div><br/>
 
 ### Tecnologias presentes em repositórios públicos do Github:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassemanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cassemanuel&layout=compact&theme=radical)](https://github.com/cassemanuel)
