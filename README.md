@@ -1,21 +1,44 @@
-# Olá! Meu nome é Cássio 🤠
-Carioca e Vascaíno em busca do aprendizado no mundo da Ciência da Computação. Tenho essa página como repositório de longo prazo para ver minha evolução e recordar de coisas que eu possuia dificuldade e superei. /+/
-<br/>
+# Olá, eu sou o Cássio Silva! 👋 🤠
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/cassemanuel/)
+Carioca, Vascaíno raiz (/+/) e graduando em **Ciência da Computação na UFRJ**.
 
-### Tecnologias que eu uso (ou já usei) no meu dia:
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="c_language" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  <img align="center" alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  
-  </div><br/>
+Atualmente atuo como **Estagiário em Governança de TI e Projetos no ONS (Operador Nacional do Sistema Elétrico)** e como **Monitor Técnico no Laboratório de Computação e Informática (LCI/UFRJ)**, além de ter sido Diretor-Presidente do Centro Acadêmico de Informática (CAInfo - UFRJ).
 
-### Tecnologias presentes em repositórios públicos do Github:
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cassemanuel&layout=compact&theme=radical)](https://github.com/cassemanuel)
+---
+
+### 💼 Sobre Mim & Atuação
+
+- ⚡ **Governança & Projetos:** Apoio a processos decisórios, rotinas de governança de TI e metodologias ágeis no ONS.
+- 🐧 **Infraestrutura & Suporte:** Administração de ambientes Linux (Mint, Pop!_OS), gestão via LDAP e suporte de rede para +150 máquinas no LCI/UFRJ.
+- 🎓 **Liderança & Comunidade:** Ex-presidente e atual diretor consultivo do CAInfo/UFRJ; monitor de disciplinas como *Projeto de Carreira* e *Introdução ao Pensamento Dedutivo*.
+- 🌎 **Idiomas:** Inglês avançado com experiência de intercâmbio (*Camp Counselor* nos EUA).
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens & Desenvolvimento:**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599E?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Dados & Governança:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Scrum](https://img.shields.io/badge/Agile_/_Scrum-007ACC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+**Sistemas & Cloud:**
+![Linux](https://img.shields.io/badge/Linux_Mint_/_Pop!_OS-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassemanuel/)
+[![Email](https://img.shields.io/badge/Email-cassiosilva6%40yahoo.com-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:cassiosilva6@yahoo.com)
