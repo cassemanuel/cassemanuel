@@ -38,7 +38,16 @@ Atualmente atuo como **Estagiário em Governança de TI e Projetos no ONS (Opera
 
 ---
 
-### 📫 Onde me encontrar
+### � Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=cassemanuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cassemanuel&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### �📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassemanuel/)
 [![Email](https://img.shields.io/badge/Email-cassiosilva6%40yahoo.com-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:cassiosilva6@yahoo.com)
