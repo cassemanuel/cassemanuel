@@ -1,17 +1,8 @@
 # Olá, eu sou o Cássio Silva! 👋 🤠
 
-Carioca, Vascaíno raiz (/+/) e graduando em **Ciência da Computação na UFRJ**.
+Carioca, Vascaíno (/+/) e graduando em **Ciência da Computação na UFRJ**.
 
-Atualmente atuo como **Estagiário em Governança de TI e Projetos no ONS (Operador Nacional do Sistema Elétrico)** e como **Monitor Técnico no Laboratório de Computação e Informática (LCI/UFRJ)**, além de ter sido Diretor-Presidente do Centro Acadêmico de Informática (CAInfo - UFRJ).
-
----
-
-### 💼 Sobre Mim & Atuação
-
-- ⚡ **Governança & Projetos:** Apoio a processos decisórios, rotinas de governança de TI e metodologias ágeis no ONS.
-- 🐧 **Infraestrutura & Suporte:** Administração de ambientes Linux (Mint, Pop!_OS), gestão via LDAP e suporte de rede para +150 máquinas no LCI/UFRJ.
-- 🎓 **Liderança & Comunidade:** Ex-presidente e atual diretor consultivo do CAInfo/UFRJ; monitor de disciplinas como *Projeto de Carreira* e *Introdução ao Pensamento Dedutivo*.
-- 🌎 **Idiomas:** Inglês avançado com experiência de intercâmbio (*Camp Counselor* nos EUA).
+Atualmente atuo como **Estagiário no ONS** e como **Monitor do Laboratório de Computação e Informática (LCI/UFRJ)**, além de ter sido Diretor-Presidente do Centro Acadêmico de Informática (CAInfo - UFRJ).
 
 ---
 
